@@ -1,5 +1,22 @@
-# next-js-11-registration-login-example
+### Getting Started
+* Welcome to the Next.js documentation!
 
-Next.js 11 - User Registration and Login Example
+* System Requirements
+* Node.js 12.22.0 or later
+* MacOS, Windows (including WSL), and Linux are supported
 
-Documentation and live demo available at https://jasonwatmore.com/post/2021/08/19/next-js-11-user-registration-and-login-tutorial-with-example-app
+* Automatic Setup
+* npm i
+
+* Run npm run dev to start the development server on http://localhost:3000
+* Visit http://localhost:3000 to view your application
+
+
+### Used Technologies
+***
+* **Next.js**
+* **Bcrypt.js**
+* **Express-jwt**
+* **Yup**
+ 
+***
